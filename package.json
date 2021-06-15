@@ -1,0 +1,35 @@
+{
+  "name": "@supple-kit/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Supple-kit projects",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supple-kit/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "prettier-config",
+    "supple-kit"
+  ],
+  "author": "Bram Smulders <source@bram.is>",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://www.github.com/sponsors/bramsmulders"
+    },
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/smuldersbram/EUR"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supple-kit/prettier-config/issues"
+  },
+  "homepage": "https://github.com/supple-kit/prettier-config#readme"
+}
