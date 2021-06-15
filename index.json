@@ -7,6 +7,6 @@
   "htmlWhitespaceSensitivity": "css",
   "insertPragma": false,
   "tabWidth": 2,
-  "useTabs": true,
+  "useTabs": false,
   "endOfLine": "lf"
 }
